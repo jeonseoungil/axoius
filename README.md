@@ -2,9 +2,9 @@
 
 (리엑트)페이지 주소 : https://jeonseoungil.github.io/axoius/ <br>
 <br>리엑트 빌드로 해당 컨포넌트 코드 압축 및 node.js express 코드가 포함되지 않아 <br><br>
-Main.md -> Main 컨포넌트<br>
-MainOut.md -> MainOut 컨포넌트<br>
-node.js.md -> node.js express 컨포넌트<br>
+Main.jsx -> Main 컨포넌트<br>
+MainOut.jsx -> MainOut 컨포넌트<br>
+node.js.js -> node.js express 컨포넌트<br>
 <br>
 ### 클라이언 - 서버 <br>
 구조를 이용하여 <br>
