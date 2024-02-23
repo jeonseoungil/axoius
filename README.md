@@ -1,6 +1,6 @@
 ## axious와 node.js express를 이용한 데이터 전송 및 데이터 요청 <br>
 
-(리엑트)페이지 주소 : <br>
+(리엑트)페이지 주소 : https://jeonseoungil.github.io/axoius/ <br>
 <br>리엑트 빌드로 해당 컨포넌트 코드 압축 및 node.js express 코드가 포함되지 않아 <br><br>
 Main.md -> Main 컨포넌트<br>
 MainOut.md -> MainOut 컨포넌트<br>
